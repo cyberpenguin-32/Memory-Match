@@ -4,3 +4,4 @@ I connected everything to the java script then started coding on the matching pa
 After a few errors I managed to finally create a working game.
 I did some styling on the css.
 Then I polished up the project so now it's great!
+demo: https://ornate-tapioca-a95de0.netlify.app
